@@ -18,10 +18,7 @@ Table of contents
   * [All Cloud](#all-cloud)
 * [Useful Links](#useful-links)
   * [Security Bulletin](#security-bulletin)
-    * [Amazon Web Services (AWS)](#amazon-web-services-aws)
-    * [Microsoft Azure](#microsoft-azure)
-    * [Google Cloud ](#google-cloud )
-* [Vulnerability Disclosure](#vulnerability-disclosure)
+  * [Vulnerability Disclosure](#vulnerability-disclosure)
 <!--te-->
 
 
