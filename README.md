@@ -26,7 +26,7 @@ Table of contents
 
 
 # Contribute
-Do you want to contribute to this list? Feel free to send a PR and make sure your tool is [Open Source](https://en.wikipedia.org/wiki/Open_source).
+Do you want to contribute to this list? Feel free to send a PR.
 
 # Cloud Service Provider Vulnerabilites
 
