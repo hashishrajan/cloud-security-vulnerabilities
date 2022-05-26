@@ -10,7 +10,7 @@ Table of contents
 
 * [Contribute](#Contribute)
    * [Cloud Security Provider Vulnerabilites](#Cloud-Security-Provider-Vulnerabilites)
-      * [Amazon Web Services (AWS)](#amazon-web-services)
+      * [Amazon Web Services (AWS)](#amazon-web-services-aws)
       * [Microsoft Azure](#microsoft-azure)
       * [Google Cloud ](#google-cloud )
       * [Oracle Cloud](#oracle-cloud)
@@ -20,7 +20,7 @@ Table of contents
    * [Dependency](#dependency)
    * [Useful Links](#useful-links)
      * [Security Bulletin](#security-bulletin)
-       * [Amazon Web Services (AWS)](#amazon-web-services)
+       * [Amazon Web Services (AWS)](#amazon-web-services-aws)
        * [Microsoft Azure](#microsoft-azure)
        * [Google Cloud ](#google-cloud )
 <!--te-->
