@@ -21,6 +21,7 @@ Table of contents
        * [Amazon Web Services (AWS)](#amazon-web-services-aws)
        * [Microsoft Azure](#microsoft-azure)
        * [Google Cloud ](#google-cloud )
+     * [Vulnerability Disclosure](#vulnerability-disclosure)
 <!--te-->
 
 
