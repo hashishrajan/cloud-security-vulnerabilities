@@ -29,6 +29,7 @@ Do you want to contribute to this list? Feel free to send a PR.
 
 ### Amazon Web Services (AWS) 
 - [AWS IAM Cross Account](https://www.wiz.io/blog/black-hat-2021-aws-cross-account-vulnerabilities-how-isolated-is-your-cloud-environment/) - Published: 4 August,2021 - Status: RESOLVED
+- [AWS SageMaker Notebook](https://blog.lightspin.io/aws-sagemaker-notebook-takeover-vulnerability) - Published: 7 December,2021 - Status: RESOLVED
 - [Breaking Formation: AWS Cloudformation](https://orca.security/resources/blog/aws-cloudformation-vulnerability/)- Published: 13 Jan,2022 - Status: RESOLVED
 - [SuperGlue: AWS Glue](https://orca.security/resources/blog/aws-glue-vulnerability/) - Published: 13 Jan,2022 - Status: RESOLVED
 
