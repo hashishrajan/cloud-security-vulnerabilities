@@ -16,8 +16,6 @@ Table of contents
       * [Oracle Cloud](#oracle-cloud)
       * [IBM Cloud](#ibm-cloud)
       * [All Cloud](#all-cloud)
-   * [Tests](#tests)
-   * [Dependency](#dependency)
    * [Useful Links](#useful-links)
      * [Security Bulletin](#security-bulletin)
        * [Amazon Web Services (AWS)](#amazon-web-services-aws)
