@@ -9,19 +9,19 @@ Table of contents
 <!--ts-->
 
 * [Contribute](#Contribute)
-   * [Cloud Security Provider Vulnerabilites](#Cloud-Security-Provider-Vulnerabilites)
-      * [Amazon Web Services (AWS)](#amazon-web-services-aws)
-      * [Microsoft Azure](#microsoft-azure)
-      * [Google Cloud ](#google-cloud )
-      * [Oracle Cloud](#oracle-cloud)
-      * [IBM Cloud](#ibm-cloud)
-      * [All Cloud](#all-cloud)
-   * [Useful Links](#useful-links)
-     * [Security Bulletin](#security-bulletin)
-       * [Amazon Web Services (AWS)](#amazon-web-services-aws)
-       * [Microsoft Azure](#microsoft-azure)
-       * [Google Cloud ](#google-cloud )
-     * [Vulnerability Disclosure](#vulnerability-disclosure)
+* [Cloud Security Provider Vulnerabilites](#cloud-service-provider-vulnerabilites)
+  * [Amazon Web Services (AWS)](#amazon-web-services-aws)
+  * [Microsoft Azure](#microsoft-azure)
+  * [Google Cloud ](#google-cloud )
+  * [Oracle Cloud](#oracle-cloud)
+  * [IBM Cloud](#ibm-cloud)
+  * [All Cloud](#all-cloud)
+* [Useful Links](#useful-links)
+  * [Security Bulletin](#security-bulletin)
+    * [Amazon Web Services (AWS)](#amazon-web-services-aws)
+    * [Microsoft Azure](#microsoft-azure)
+    * [Google Cloud ](#google-cloud )
+* [Vulnerability Disclosure](#vulnerability-disclosure)
 <!--te-->
 
 
