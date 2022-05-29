@@ -71,6 +71,6 @@ All identified vulnerabilities should be disclosed to the vendors/maintainers of
 * Oracle OCI - ([link](https://www.oracle.com/corporate/security-practices/assurance/vulnerability/reporting.html)).
 
 ## Awesome Community Links
-* Toni De La Fuente - ([My-Arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
-* Scott Piper - ([csp_security_mistakes](https://github.com/SummitRoute/csp_security_mistakes)
-* 
+* Toni De La Fuente - [My-Arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
+* Scott Piper - [csp_security_mistakes](https://github.com/SummitRoute/csp_security_mistakes)
+
