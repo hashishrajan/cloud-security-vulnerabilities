@@ -28,6 +28,7 @@ Do you want to contribute to this list? Feel free to send a PR.
 # Cloud Service Provider Vulnerabilites
 
 ### Amazon Web Services (AWS) 
+- [AWS: Execution in CloudFormation service account](https://onecloudplease.com/blog/security-september-cataclysms-in-the-cloud-formations) - Published: 26 August,2020 - Status: RESOLVED
 - [AWS IAM Cross Account](https://www.wiz.io/blog/black-hat-2021-aws-cross-account-vulnerabilities-how-isolated-is-your-cloud-environment/) - Published: 4 August,2021 - Status: RESOLVED
 - [AWS SageMaker Notebook](https://blog.lightspin.io/aws-sagemaker-notebook-takeover-vulnerability) - Published: 7 December,2021 - Status: RESOLVED
 - [Breaking Formation: AWS Cloudformation](https://orca.security/resources/blog/aws-cloudformation-vulnerability/)- Published: 13 Jan,2022 - Status: RESOLVED
@@ -35,6 +36,7 @@ Do you want to contribute to this list? Feel free to send a PR.
 
 ### Microsoft Azure 
 - [ChaosDB:Azure Cosmos DB](https://www.wiz.io/blog/how-we-broke-the-cloud-with-two-lines-of-code-the-full-story-of-chaosdb/) - Published: 7 August,2021 - Status: RESOLVED
+- [Azure: Azurescape](https://unit42.paloaltonetworks.com/azure-container-instances/) - Published: 9 September,2021 - Status: RESOLVED
 - [OMIGOD:Microsoft Open Management Infrastructure (OMI)](https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution/) - Published: 14 September,2021 - Status: RESOLVED
 - [NotLegit: Azure App Service](https://www.wiz.io/blog/azure-app-service-source-code-leak/) - Published: 21 December,2021 - Status: RESOLVED
 - [ExtraReplica:Azure PostgreSQL](https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/) - Published: 28 April,2022 - Status: RESOLVED
@@ -67,3 +69,8 @@ All identified vulnerabilities should be disclosed to the vendors/maintainers of
 * Azure - ([link](https://www.microsoft.com/en-us/msrc/bounty))
 * Google GCP - ([link](https://www.google.com/appserve/security-bugs/m2/new))
 * Oracle OCI - ([link](https://www.oracle.com/corporate/security-practices/assurance/vulnerability/reporting.html)).
+
+## Awesome Community Links
+* Toni De La Fuente - ([My-Arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
+* Scott Piper - ([csp_security_mistakes](https://github.com/SummitRoute/csp_security_mistakes)
+* 
