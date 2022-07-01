@@ -42,7 +42,8 @@ Do you want to contribute to this list? Feel free to send a PR.
 - [ExtraReplica:Azure PostgreSQL](https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/) - Published: 28 April,2022 - Status: RESOLVED
 - [AutoWrap: Azure Automation](https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/) - Published: 7 March,2021 - Status: RESOLVED
 - [Synapse: Azure Synapse Analytics](https://orca.security/resources/blog/azure-synapse-analytics-security-advisory/) - Published: 9 May,2021 - Status: PARTIAL(requires User Caution)
-
+- [FabricSCape: Microsoft Service Fabric - commonly used with many Azure offerings](https://unit42.paloaltonetworks.com/fabricscape-cve-2022-30137/) - Published: 14 June,2022 - Status: RESOLVED (requires User Intervention in certain scenarios to fix)
+ 
 ### Google Cloud 
 
 ### Oracle Cloud 
