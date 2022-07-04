@@ -71,7 +71,11 @@ All identified vulnerabilities should be disclosed to the vendors/maintainers of
 * Google GCP - ([link](https://www.google.com/appserve/security-bugs/m2/new))
 * Oracle OCI - ([link](https://www.oracle.com/corporate/security-practices/assurance/vulnerability/reporting.html)).
 
-## Awesome Community Links
+## Other Community Links - you may find helpful for Cloud Security
 * Toni De La Fuente - [My-Arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
-* Scott Piper - [csp_security_mistakes](https://github.com/SummitRoute/csp_security_mistakes)
+* Wiz - [Cloud Vulnerability Database] [cloudvulndb](https://www.cloudvulndb.org/)
+* Orca Security - [Cloud Risk Encyclopedia](https://orca.security/resources/cloud-risk-encyclopedia/)
+* LightSpin - [Attack Path for Domains](https://recon.cloud/)
+* Snyk - [Open Source Vulnerability Database](https://security.snyk.io/)
+* JupiterOne - [Starbase - a Graph-based security analysis](https://github.com/JupiterOne/starbase)
 
