@@ -31,8 +31,11 @@ Do you want to contribute to this list? Feel free to send a PR.
 - [AWS: Execution in CloudFormation service account](https://onecloudplease.com/blog/security-september-cataclysms-in-the-cloud-formations) - Published: 26 August,2020 - Status: RESOLVED
 - [AWS IAM Cross Account](https://www.wiz.io/blog/black-hat-2021-aws-cross-account-vulnerabilities-how-isolated-is-your-cloud-environment/) - Published: 4 August,2021 - Status: RESOLVED
 - [AWS SageMaker Notebook](https://blog.lightspin.io/aws-sagemaker-notebook-takeover-vulnerability) - Published: 7 December,2021 - Status: RESOLVED
-- [Breaking Formation: AWS Cloudformation](https://orca.security/resources/blog/aws-cloudformation-vulnerability/)- Published: 13 Jan,2022 - Status: RESOLVED
+- [Breaking Formation: AWS Cloudformation](https://orca.security/resources/blog/aws-cloudformation-vulnerability/) - Published: 13 Jan,2022 - Status: RESOLVED
 - [SuperGlue: AWS Glue](https://orca.security/resources/blog/aws-glue-vulnerability/) - Published: 13 Jan,2022 - Status: RESOLVED
+- [AWS EKS Authentication Vulnerabilty](https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator) - Published: 11 Jul,2022 - Status: RESOLVED (requires User Intervention in certain scenarios to fix)
+- [AWS S3 Replication Service - Only logs first destination bucket](https://www.vectra.ai/blogpost/abusing-the-replicator-silently-exfiltrating-data-with-the-aws-s3-replication-service) - Published: 20 Jul,2022 - Status: NO FIX PROVIDED
+- [AWS CodeArtifact - Depedency Confusion](https://zego.engineering/dependency-confusion-in-aws-codeartifact-86b9ff68963d) - Published: 28 Jul,2022 - Status: RESOLVED
 
 ### Microsoft Azure 
 - [ChaosDB:Azure Cosmos DB](https://www.wiz.io/blog/how-we-broke-the-cloud-with-two-lines-of-code-the-full-story-of-chaosdb/) - Published: 7 August,2021 - Status: RESOLVED
@@ -43,8 +46,14 @@ Do you want to contribute to this list? Feel free to send a PR.
 - [AutoWrap: Azure Automation](https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/) - Published: 7 March,2021 - Status: RESOLVED
 - [Synapse: Azure Synapse Analytics](https://orca.security/resources/blog/azure-synapse-analytics-security-advisory/) - Published: 9 May,2021 - Status: PARTIAL(requires User Caution)
 - [FabricSCape: Microsoft Service Fabric - commonly used with many Azure offerings](https://unit42.paloaltonetworks.com/fabricscape-cve-2022-30137/) - Published: 14 June,2022 - Status: RESOLVED (requires User Intervention in certain scenarios to fix)
+- [Azure WAF - Pattern bypass with OWASP 3.2 managed rule set](https://twitter.com/justm0rph3u5/status/1542943538857799680) - Published: 2 July,2022 - Status: RESOLVED
+- [Azure Site Recovery service susceptible to DLL Hijacking flaw](https://medium.com/tenable-techblog/microsoft-azure-site-recovery-dll-hijacking-cd8cc34ef80c) - Published: 13 July,2022 - Status: RESOLVED
+- [Azure Database for PostgreSQL - escape to host](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities) - Published 12 August,2022 - STATUS: RESOLVED
+- [Azure Synapse Analytics](https://orca.security/resources/blog/synapse-local-privilege-escalation-vulnerability-spark/) - Published: 1 September,2022 - Status: RESOLVED
+
  
 ### Google Cloud 
+- [Cloud SQL's PostgreSQL engine - escape to host](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities) - Published 12 August,2022 - STATUS: RESOLVED
 
 ### Oracle Cloud 
 
