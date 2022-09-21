@@ -50,13 +50,14 @@ Do you want to contribute to this list? Feel free to send a PR.
 - [Azure Site Recovery service susceptible to DLL Hijacking flaw](https://medium.com/tenable-techblog/microsoft-azure-site-recovery-dll-hijacking-cd8cc34ef80c) - Published: 13 July,2022 - Status: RESOLVED
 - [Azure Database for PostgreSQL - escape to host](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities) - Published 12 August,2022 - STATUS: RESOLVED
 - [Azure Synapse Analytics](https://orca.security/resources/blog/synapse-local-privilege-escalation-vulnerability-spark/) - Published: 1 September,2022 - Status: RESOLVED
+- [Azure Cloud Shell Command Injection Stealing User’s Access Tokens](https://blog.lightspin.io/azure-cloud-shell-command-injection-stealing-users-access-tokens) - Published: 20 September,2022 - Status: RESOLVED
 
  
 ### Google Cloud 
 - [Cloud SQL's PostgreSQL engine - escape to host](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities) - Published 12 August,2022 - STATUS: RESOLVED
 
 ### Oracle Cloud 
-
+- [AttachMe: critical OCI vulnerability allows unauthorized access to customer cloud storage volumes] (https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access) - Published 21 September,2022 - STATUS: RESOLVED
 
 ### IBM Cloud 
 
