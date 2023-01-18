@@ -36,6 +36,7 @@ Do you want to contribute to this list? Feel free to send a PR.
 - [AWS EKS Authentication Vulnerabilty](https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator) - Published: 11 Jul,2022 - Status: RESOLVED (requires User Intervention in certain scenarios to fix)
 - [AWS S3 Replication Service - Only logs first destination bucket](https://www.vectra.ai/blogpost/abusing-the-replicator-silently-exfiltrating-data-with-the-aws-s3-replication-service) - Published: 20 Jul,2022 - Status: NO FIX PROVIDED
 - [AWS CodeArtifact - Depedency Confusion](https://zego.engineering/dependency-confusion-in-aws-codeartifact-86b9ff68963d) - Published: 28 Jul,2022 - Status: RESOLVED
+- [AWS CloudTrail - iamadmin CloudTrail Bypass](https://securitylabs.datadoghq.com/articles/iamadmin-cloudtrail-bypass/) - Published: 17 January,2023 - Status: RESOLVED
 
 ### Microsoft Azure 
 - [ChaosDB:Azure Cosmos DB](https://www.wiz.io/blog/how-we-broke-the-cloud-with-two-lines-of-code-the-full-story-of-chaosdb/) - Published: 7 August,2021 - Status: RESOLVED
@@ -51,7 +52,10 @@ Do you want to contribute to this list? Feel free to send a PR.
 - [Azure Database for PostgreSQL - escape to host](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities) - Published 12 August,2022 - STATUS: RESOLVED
 - [Azure Synapse Analytics](https://orca.security/resources/blog/synapse-local-privilege-escalation-vulnerability-spark/) - Published: 1 September,2022 - Status: RESOLVED
 - [Azure Cloud Shell Command Injection Stealing User’s Access Tokens](https://blog.lightspin.io/azure-cloud-shell-command-injection-stealing-users-access-tokens) - Published: 20 September,2022 - Status: RESOLVED
-
+- [Authenticated SSRF Vulnerability on Azure API Management Service](https://orca.security/resources/blog/ssrf-vulnerabilities-azure-api-management/) - Published: 17 January,2023 - Status: RESOLVED
+- [Authenticated SSRF Vulnerability on Azure Machine Learning Service](https://orca.security/resources/blog/ssrf-vulnerabilities-azure-machine-learning/) - Published: 17 January,2023 - Status: RESOLVED
+- [Unauthenticated SSRF Vulnerability on Azure Digital Twins Explorer](https://orca.security/resources/blog/ssrf-vulnerabilities-azure-digital-twins/) - Published: 17 January,2023 - Status: RESOLVED
+- [Unauthenticated SSRF Vulnerability on Azure Functions](https://orca.security/resources/blog/ssrf-vulnerabilities-azure-functions-app/) - Published: 17 January,2023 - Status: RESOLVED
  
 ### Google Cloud 
 - [Cloud SQL's PostgreSQL engine - escape to host](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities) - Published 12 August,2022 - STATUS: RESOLVED
