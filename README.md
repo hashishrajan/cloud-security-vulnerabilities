@@ -93,3 +93,5 @@ All identified vulnerabilities should be disclosed to the vendors/maintainers of
 * Snyk - [Open Source Vulnerability Database](https://security.snyk.io/)
 * JupiterOne - [Starbase - a Graph-based security analysis](https://github.com/JupiterOne/starbase)
 
+For more Cloud Security Resources, Training, Interviews and more check out Cloud Security Podcast 
+[Website](www.cloudsecuritypodcast.tv) | [YouTube](https://www.youtube.com/c/CloudSecurityPodcast?sub_confirmation=1) | [Linkedin](https://www.linkedin.com/company/cloud-security-podcast/) | [Apple](https://podcasts.apple.com/us/podcast/cloud-security-podcast/id1489678590) | [Spotify](https://open.spotify.com/show/6LZgeh4GecRYPc0WrwMB4I) | [Twitter](https://twitter.com/CloudSecPod)
