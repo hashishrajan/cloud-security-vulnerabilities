@@ -57,6 +57,7 @@ Do you want to contribute to this list? Feel free to send a PR.
 - [Unauthenticated SSRF Vulnerability on Azure Digital Twins Explorer](https://orca.security/resources/blog/ssrf-vulnerabilities-azure-digital-twins/) - Published: 17 January,2023 - Status: RESOLVED
 - [Unauthenticated SSRF Vulnerability on Azure Functions](https://orca.security/resources/blog/ssrf-vulnerabilities-azure-functions-app/) - Published: 17 January,2023 - Status: RESOLVED
 - [Azure Active Directory B2C service – Crypto Misuse and Account Compromise](https://www.praetorian.com/blog/azure-b2c-crypto-misuse-and-account-compromise/) - Published: 15 February,2023 - Status: RESOLVED
+ - [Super FabriXss: From XSS to an RCE in Azure Service Fabric Explorer](https://orca.security/resources/blog/super-fabrixss-azure-vulnerability/) - Published: 30 March,2023 - Status: RESOLVED
  
 ### Google Cloud 
 - [Cloud SQL's PostgreSQL engine - escape to host](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities) - Published 12 August,2022 - STATUS: RESOLVED
