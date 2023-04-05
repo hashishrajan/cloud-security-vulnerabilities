@@ -37,6 +37,7 @@ Do you want to contribute to this list? Feel free to send a PR.
 - [AWS S3 Replication Service - Only logs first destination bucket](https://www.vectra.ai/blogpost/abusing-the-replicator-silently-exfiltrating-data-with-the-aws-s3-replication-service) - Published: 20 Jul,2022 - Status: NO FIX PROVIDED
 - [AWS CodeArtifact - Depedency Confusion](https://zego.engineering/dependency-confusion-in-aws-codeartifact-86b9ff68963d) - Published: 28 Jul,2022 - Status: RESOLVED
 - [AWS CloudTrail - iamadmin CloudTrail Bypass](https://securitylabs.datadoghq.com/articles/iamadmin-cloudtrail-bypass/) - Published: 17 January,2023 - Status: RESOLVED
+- [AWS App Runner Cross Tenant](https://frichetten.com/blog/minor-cross-tenant-vulns-app-runner/)- Published:3 April,2023 - Status: RESOLVED
 
 ### Microsoft Azure 
 - [ChaosDB:Azure Cosmos DB](https://www.wiz.io/blog/how-we-broke-the-cloud-with-two-lines-of-code-the-full-story-of-chaosdb/) - Published: 7 August,2021 - Status: RESOLVED
