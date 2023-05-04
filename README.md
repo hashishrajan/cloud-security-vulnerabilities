@@ -62,16 +62,16 @@ Do you want to contribute to this list? Feel free to send a PR.
  
 ### Google Cloud 
 - [Cloud SQL's PostgreSQL engine - escape to host](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities) - Published 12 August,2022 - STATUS: RESOLVED
-- [Asset Key Thief - Google Cloud privilege escalation vulnerability that enabled principals with the "Cloud Asset Viewer" role] (https://engineering.sada.com/asset-key-thief-disclosure-cfae4f1778b6) - Published 19 April,2023 - STATUS: RESOLVED
+- [Asset Key Thief - Google Cloud privilege escalation vulnerability that enabled principals with the "Cloud Asset Viewer" role](https://engineering.sada.com/asset-key-thief-disclosure-cfae4f1778b6) - Published 19 April,2023 - STATUS: RESOLVED
 
 
 ### Oracle Cloud 
-- [AttachMe: critical OCI vulnerability allows unauthorized access to customer cloud storage volumes] (https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access) - Published 21 September,2022 - STATUS: RESOLVED
+- [AttachMe: critical OCI vulnerability allows unauthorized access to customer cloud storage volumes](https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access) - Published 21 September,2022 - STATUS: RESOLVED
 
 ### IBM Cloud 
 
 ### Alibaba Cloud
-- [BrokenSesame] (https://www.wiz.io/blog/brokensesame-accidental-write-permissions-to-private-registry-allowed-potential-r)  - Published 19 April,2023 - STATUS: RESOLVED
+- [BrokenSesame](https://www.wiz.io/blog/brokensesame-accidental-write-permissions-to-private-registry-allowed-potential-r)  - Published 19 April,2023 - STATUS: RESOLVED
 
 ### All Cloud
 - [sudo vulnerability](https://www.wiz.io/blog/recent-linux-sudo-vulnerability-affects-a-major-percent-of-cloud-workloads/) - Published 6 August,2021 - Status: PARTIAL (requires User Caution)
